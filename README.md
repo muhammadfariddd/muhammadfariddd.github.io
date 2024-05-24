@@ -12,14 +12,11 @@ Features 🌟
 
 Screenshoot 📸
 ---
-Light Mode
 
 ![Screenshot 2024-05-24 222632](https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/9ebc4be1-1506-47f9-aa4c-b9373703df5e)
 
+![Screenshot 2024-05-24 222955](https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/8b05d626-6d2f-4d1d-adfb-af90f9905db3)
 
-Dark Mode
-
-<img width="946" alt="ss portofolio 1" src="https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/7555ca5f-b671-423c-bf17-e95780b3c50c">
 
 
 
