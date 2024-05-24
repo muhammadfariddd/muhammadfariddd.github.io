@@ -14,12 +14,12 @@ Screenshoot 📸
 ---
 Light Mode
 
-https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/19bd1701-852a-4338-b46a-179c5b4a9a2e
+![Screenshot 2024-05-24 222632](https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/9ebc4be1-1506-47f9-aa4c-b9373703df5e)
 
 
 Dark Mode
 
-https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/1e7184ec-4dd5-4ce5-8502-d8976b9e516c
+<img width="946" alt="ss portofolio 1" src="https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/7555ca5f-b671-423c-bf17-e95780b3c50c">
 
 
 
