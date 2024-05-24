@@ -14,11 +14,17 @@ Screenshoot 📸
 ---
 Light Mode
 
-![Screenshot 2024-05-20 093957](https://github.com/muhammadfariddd/Tugas-UAS-Saya/assets/142093385/2ceb3b7d-f4ec-4d96-9acd-b10da96a66d0)
+https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/19bd1701-852a-4338-b46a-179c5b4a9a2e
 
 
 Dark Mode
 
-![Screenshot 2024-05-20 093910](https://github.com/muhammadfariddd/Tugas-UAS-Saya/assets/142093385/8ea21d53-8914-45f4-beb4-371e6915b108)
+https://github.com/muhammadfariddd/muhammadfariddd.github.io/assets/142093385/1e7184ec-4dd5-4ce5-8502-d8976b9e516c
+
+
+
+
+
+
 
 
